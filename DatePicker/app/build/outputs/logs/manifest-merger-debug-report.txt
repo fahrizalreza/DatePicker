@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\1aa9cb95bd9221614b7a994c39a8587c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\f5af61b334a01257566f67677f65a275\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fb9c0e3a32212bb8a70027d1cbdc423b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\cc8f2ab80660b92807b55f445ccf873f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\c7acd4b429b352f5593dddb4ec7f43bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\722443e62c4dfa3204993d357c2fb233\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\3de36f969d925a2ab121f349ad1efc18\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\8828f36cdbe658624b59565dafb527c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\cf022178b62b04d4c051d4f6a1e84184\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\7bd164894862e8f6c21b9353cdbfd550\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\5fc8126b2805c683762c3f59d8fcbaea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\343616e3872fd7914f4ada488ea78660\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\13622787aadc3229e6ca720ac31d2195\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\22d0e8e9051cf1ec124680b608a90d75\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\6f91c89ddd496c3ca0c28a374c3ad801\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\731963956624a772199251e82e18723e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\08397a33c962e07560d9ce6c3da85a1e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\e179c247c261eed11cb004c88da84d62\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\03d8549f902fae082af8541448d023ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fee325fd97a0a0806c46a62bb03c6eae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\64b41663570351c4170385b8d0bd7a1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\3afdf146c167df48158a9c23a18be23f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\82a1e3a03bf4793fbb8ea4abe0c895ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\015ab13389d69668194bc98405bf023b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\ee186469520ac1436b52ea86ecc94c5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fbf910070f1f1e949ba047f74fd2ab69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\b677b0c9c4723180a9707c2d7c0633f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\ff1cfdad1026d96c56fd26cd270004a3\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\f5af61b334a01257566f67677f65a275\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\f5af61b334a01257566f67677f65a275\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\08397a33c962e07560d9ce6c3da85a1e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\08397a33c962e07560d9ce6c3da85a1e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\e179c247c261eed11cb004c88da84d62\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\e179c247c261eed11cb004c88da84d62\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\08397a33c962e07560d9ce6c3da85a1e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.datepicker.MainActivity
+ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\1aa9cb95bd9221614b7a994c39a8587c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\1aa9cb95bd9221614b7a994c39a8587c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\f5af61b334a01257566f67677f65a275\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\f5af61b334a01257566f67677f65a275\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fb9c0e3a32212bb8a70027d1cbdc423b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fb9c0e3a32212bb8a70027d1cbdc423b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\cc8f2ab80660b92807b55f445ccf873f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\cc8f2ab80660b92807b55f445ccf873f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\c7acd4b429b352f5593dddb4ec7f43bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\c7acd4b429b352f5593dddb4ec7f43bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\722443e62c4dfa3204993d357c2fb233\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\722443e62c4dfa3204993d357c2fb233\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\3de36f969d925a2ab121f349ad1efc18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\3de36f969d925a2ab121f349ad1efc18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\8828f36cdbe658624b59565dafb527c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\8828f36cdbe658624b59565dafb527c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\cf022178b62b04d4c051d4f6a1e84184\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\cf022178b62b04d4c051d4f6a1e84184\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\7bd164894862e8f6c21b9353cdbfd550\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\7bd164894862e8f6c21b9353cdbfd550\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\5fc8126b2805c683762c3f59d8fcbaea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\5fc8126b2805c683762c3f59d8fcbaea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\343616e3872fd7914f4ada488ea78660\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\343616e3872fd7914f4ada488ea78660\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\13622787aadc3229e6ca720ac31d2195\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\13622787aadc3229e6ca720ac31d2195\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\22d0e8e9051cf1ec124680b608a90d75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\22d0e8e9051cf1ec124680b608a90d75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\6f91c89ddd496c3ca0c28a374c3ad801\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\6f91c89ddd496c3ca0c28a374c3ad801\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\731963956624a772199251e82e18723e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\731963956624a772199251e82e18723e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\08397a33c962e07560d9ce6c3da85a1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\08397a33c962e07560d9ce6c3da85a1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\e179c247c261eed11cb004c88da84d62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\e179c247c261eed11cb004c88da84d62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\03d8549f902fae082af8541448d023ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\03d8549f902fae082af8541448d023ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fee325fd97a0a0806c46a62bb03c6eae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fee325fd97a0a0806c46a62bb03c6eae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\64b41663570351c4170385b8d0bd7a1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\64b41663570351c4170385b8d0bd7a1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\3afdf146c167df48158a9c23a18be23f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\3afdf146c167df48158a9c23a18be23f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\82a1e3a03bf4793fbb8ea4abe0c895ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\82a1e3a03bf4793fbb8ea4abe0c895ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\015ab13389d69668194bc98405bf023b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\015ab13389d69668194bc98405bf023b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\ee186469520ac1436b52ea86ecc94c5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\ee186469520ac1436b52ea86ecc94c5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fbf910070f1f1e949ba047f74fd2ab69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\fbf910070f1f1e949ba047f74fd2ab69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\b677b0c9c4723180a9707c2d7c0633f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\b677b0c9c4723180a9707c2d7c0633f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\ff1cfdad1026d96c56fd26cd270004a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Emerio-Nadia\.gradle\caches\transforms-2\files-2.1\ff1cfdad1026d96c56fd26cd270004a3\AndroidManifest.xml:20:5-44
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Java\DatePicker\app\src\main\AndroidManifest.xml
